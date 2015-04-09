@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Control de Gastos</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ccf">Compras con Factura</string>
+    <string name="csf">Compras sin Factura</string>
+    <string name="vcf">Ventas con Factura</string>
+    <string name="vsf">Ventas sin Factura</string>
+    <string name="resumen">Resumen</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="guardar">Guardar</string>
+</resources>
